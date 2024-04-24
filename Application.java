@@ -18,6 +18,7 @@ import java.io.FileNotFoundException;
 public class Application {
 
 	/**
+	 * @author Jayden West
 	 * @param args
 	 * @throws IOException 
 	 */
